@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mostafa-Elmoalem</h1>
 
-<h3 align="center">Frontend developer | Computer Engineering student</h3>
+<h3 align="center">Frontend developer | Computer Engineering student</h3><br>
 
 <p align="center">  <!-- linkedin Me -->
-    <a href="https://eg.linkedin.com/in/mostafa-elmoalem-782a821ba">
-      <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Follow+me+on+LinkedIn;📈+Always+learning,+always+building">
-</p>
-
-    </a>
+    <a href="https://eg.linkedin.com/in/mostafa-elmoalem-782a821ba"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Follow+me+on+linkedin;Always+learning%2C+always+building" alt="Typing SVG" /></a>
   </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-elmoalem&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-elmoalem" /> </p>
 
