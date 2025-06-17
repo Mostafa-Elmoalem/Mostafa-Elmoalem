@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript , React**
 
-- 📫 How to reach me **Mostafaelmoalem@gmail.com**
+[- 📫 How to reach me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) **Mostafaelmoalem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
