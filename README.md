@@ -66,7 +66,7 @@
 <!-- GitHub Stats -->
 <p align="center">
   <a href="https://github.com/Mostafa-Elmoalem">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Elmoalem&layout=compact&theme=dracula" alt="Top Languages" />
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Elmoalem&langs_count=8)
   </a>
 </p>
 
