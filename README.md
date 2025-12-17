@@ -9,11 +9,6 @@
   </a>
 </p>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mostafa-elmoalem&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 <h3 align="center">🛠️ Languages and Tools</h3>
@@ -63,10 +58,4 @@
   </a>
 </p>
 <br>
-<!-- GitHub Stats -->
-<p align="center">
-  <a href="https://github.com/Mostafa-Elmoalem">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Elmoalem&langs_count=8" alt="Top Langs" />
-  </a>
-</p>
 
