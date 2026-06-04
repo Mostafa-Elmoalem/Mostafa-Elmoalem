@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mostafa-Elmoalem</h1>
 
-<h3 align="center">Full-Stack Engineer | Performance Optimization | AI Integration</h3>
-<h4 align="center">Computer Engineering • Production-Grade Systems • Technical Architecture</h4><br>
-
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://eg.linkedin.com/in/mostafa-elmoalem-782a821ba" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=500&lines=High-performance+web+systems;AI-powered+applications;Cloud-native+architecture;Always+optimizing%2C+always+building" alt="Typing SVG" />
-  </a>
-</p>
+<h3 align="center">Full-Stack Engineer | Performance Optimization </h3>
+<h4 align="center">Computer Engineering • Production-Grade Systems</h4><br>
 
 ---
 
@@ -68,40 +61,7 @@
   </a>
 </p>
 
-<h4 align="center" style="margin-top: 20px;">AI & Advanced Architecture</h4>
-
-<p align="center">
-  <a href="https://ai.google.dev/gemini-api" target="_blank" rel="noreferrer">
-    <img src="https://www.gstatic.com/devrel-devsite/prod/v2d3a3545920cd4a55bd580441aa58e7853afc04b39a9d9ac4198e1cd7fbe04ef/gemini/images/favicon.png" alt="Gemini API" height="45"/>
-  </a>
-  <a href="https://ollama.ai/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/171348577?s=200&v=4" alt="Ollama LLM" height="45" style="margin: 0 8px;"/>
-  </a>
-  <a href="https://github.com/ggerganov/llama.cpp" target="_blank" rel="noreferrer">
-    <img src="https://github.com/ggerganov/llama.cpp/raw/master/media/llama.cpp-logo.png" alt="llama.cpp" height="45"/>
-  </a>
-</p>
-
 ---
-
-## 🚀 Featured Projects
-
-<h4 align="center">Production-Grade Systems & Optimizations</h4>
-
-<table align="center" style="border: none; margin: 20px auto;">
-  <tr>
-    <td align="center" style="border: none; padding: 0 20px;">
-      <b>Omnibot</b><br/>
-      <sub>AI-powered automation & orchestration</sub><br/>
-      <sub>Next.js • Gemini API • TypeScript</sub>
-    </td>
-    <td align="center" style="border: none; padding: 0 20px;">
-      <b>Performance Portfolio</b><br/>
-      <sub>High-speed, optimized showcase</sub><br/>
-      <sub>React • Tailwind • SEO-first architecture</sub>
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <sub>Focused on <b>latency optimization</b>, <b>Core Web Vitals</b>, and <b>scalable architecture</b> across all projects</sub>
